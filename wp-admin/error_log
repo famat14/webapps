@@ -1,0 +1,4 @@
+[19-May-2019 06:08:35 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[19-May-2019 08:43:07 UTC] PHP Warning:  copy(/home/webarqub/public_html/cleaning/wp-content/upgrade/cleaning-services/cleaning-services/class.theme-modules.php): failed to open stream: No such file or directory in /home/webarqub/public_html/cleaning/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[19-May-2019 08:43:07 UTC] PHP Warning:  copy(/home/webarqub/public_html/cleaning/wp-content/upgrade/cleaning-services/cleaning-services/class.theme-modules.php): failed to open stream: No such file or directory in /home/webarqub/public_html/cleaning/wp-admin/includes/class-wp-filesystem-direct.php on line 281
+[30-May-2019 08:04:08 UTC] PHP Warning:  constant(): Couldn't find constant  in /home/webarqub/public_html/cleaning/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/class.nextgen_product_installer.php on line 86
